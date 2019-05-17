@@ -1,0 +1,772 @@
+[14:53.57.493]  
+[14:53.57.493]  BEGIN AdaptToGlobalDPI
+[14:53.57.493]      AdaptToGlobalDPI: DPI=96
+[14:53.57.493]      BEGIN Loading flat icons (size=64)
+[14:53.57.493]          Uncompressing resource...
+[14:53.57.509]          Opening uncompressed resource
+[14:53.57.509]          Extracting icons to ImageList Im64
+[14:53.57.509]      END Loading flat icons (size=64)
+[14:53.57.509]      BEGIN Loading flat icons (size=16)
+[14:53.57.509]          Uncompressing resource...
+[14:53.57.509]          Opening uncompressed resource
+[14:53.57.509]          Extracting icons to ImageList Im16
+[14:53.57.571]      END Loading flat icons (size=16)
+[14:53.57.571]      BEGIN Loading flat icons (size=22)
+[14:53.57.571]          Uncompressing resource...
+[14:53.57.587]          Opening uncompressed resource
+[14:53.57.587]          Extracting icons to ImageList Im22
+[14:53.57.649]      END Loading flat icons (size=22)
+[14:53.57.649]  END AdaptToGlobalDPI
+[14:53.57.649]  
+[14:53.57.649]  BEGIN AddMobaConsoleFont
+[14:53.57.649]  END AddMobaConsoleFont
+[14:53.57.649]  
+[14:53.57.649]  - MobaXterm version: 11.1 Build 3860
+[14:53.57.649]  - Command line: "C:\Users\Tony Montana\Desktop\MobaXterm_Personal_11.1.exe"
+[14:53.57.649]  - Date: 2019-05-17
+[14:53.57.649]  - Win32 version: 10.0.2.17134.
+[14:53.57.649]  - Windows architecture: 64-bits
+[14:53.57.649]  - Detected DPI: 96
+[14:53.57.649]  - Current DPI: 96
+[14:53.57.649]  - CurDir: C:\Users\TONYMO~1\Desktop\
+[14:53.57.649]  - PersonalDir: C:\Users\TONYMO~1\DOCUME~1\
+[14:53.57.649]  - AppDataDir: C:\Users\TONYMO~1\AppData\Roaming\
+[14:53.57.649]  - LocalAppDataDir: C:\Users\TONYMO~1\AppData\Local\
+[14:53.57.649]  - DesktopDir: C:\Users\TONYMO~1\Desktop\
+[14:53.57.649]  - MobaProfileDir: C:\Users\TONYMO~1\DOCUME~1\
+[14:53.57.649]  - Free space in MobaProfileDir folder: 607786MB
+[14:53.57.649]  - TempDir: C:\Users\TONYMO~1\AppData\Local\Temp\
+[14:53.57.665]  - Free space in TempDir folder: 607786MB
+[14:53.57.665]  - Monitor #0: 1366x768
+[14:53.57.665]  - User name: mohdzahid_123
+[14:53.57.665]  - Computer name: ALIHOME-PC
+[14:53.57.665]  - Uptime: 0 days, 07:21:11
+[14:53.57.665]  - Windows PATH: C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Lenovo\Bluetooth Software\;C:\Program Files\Lenovo\Bluetooth Software\syswow64;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\PuTTY\;C:\Users\Tony Montana\AppData\Local\Microsoft\WindowsApps
+[14:53.57.665]  - WSL not found
+[14:53.57.665]  
+[14:53.57.665]  BEGIN Form1.FormCreate
+[14:53.57.665]      Detecting installed/portable version
+[14:53.57.665]      --> portable version
+[14:53.57.665]      
+[14:53.57.665]      Detecting IniSettings
+[14:53.57.665]      MobaXterm will take its configuration from file "C:\Users\TONYMO~1\Desktop\MobaXterm.ini".
+[14:53.57.665]      (selected ini file seems to be writeable)
+[14:53.57.665]      --> IniSettings= C:\Users\TONYMO~1\Desktop\MobaXterm.ini
+[14:53.57.665]      
+[14:53.57.665]      Detecting CygUtils
+[14:53.57.665]      CygUtils32 detected
+[14:53.57.665]      --> Using CygPackage C:\Users\TONYMO~1\Desktop\CygUtils.plugin
+[14:53.57.665]      
+[14:53.57.665]      Detecting MobaXVTDir
+[14:53.57.665]      BEGIN IsFolderRW(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111)
+[14:53.57.759]          CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\drives, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\cygdrive);
+[14:53.57.774]          CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\drives, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\mnt);
+[14:53.57.790]          CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\drives, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\media);
+[14:53.57.790]          CreateSymbolicLink(/proc/registry, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\registry);
+[14:53.57.899]          CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\mx86_64b\cygdrive);
+[14:53.57.915]          CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\mx86_64b\mnt);
+[14:53.57.915]          CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\mx86_64b\media);
+[14:53.57.931]          CreateSymbolicLink(/proc/registry, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\mx86_64b\registry);
+[14:53.57.993]      END IsFolderRW(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111) --> OK
+[14:53.57.993]      --> MobaXVTDir= C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111
+[14:53.57.993]      
+[14:53.57.993]      Detecting BinExeDir
+[14:53.57.993]      --> BinExeDir= C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\
+[14:53.57.993]      --> SessionsDir= C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\sessions
+[14:53.57.993]      
+[14:53.57.993]      Detecting MobaXVTHomeDir
+[14:53.57.993]      --> MobaXVTHomeDir= C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\home_mohdzahid_123
+[14:53.57.993]      
+[14:53.57.993]      Skin detection
+[14:53.57.993]      Skin selected:
+[14:53.57.993]      Set Application Title
+[14:53.58.196]      - Cygwin1.dll not detected in running applications.
+[14:53.58.196]      
+[14:53.58.196]      Process list:  Registry, fontdrvhost.exe, fontdrvhost.exe, RapportMgmtService.exe, igfxCUIService.exe, C:\WINDOWS\System32\sihost.exe, C:\WINDOWS\System32\taskhostw.exe, RichVideo64.exe, ETDService.exe, SystemAgentService.exe, HeciServer.exe, spdsvc.exe, sqlwriter.exe, armsvc.exe, rpdsvc.exe, MsMpEng.exe, TeamViewer_Service.exe, DbxSvc.exe, LenovoWiFiHotspotSvr.exe, BtwRSupportService.exe, vmware-usbarbitrator64.exe, SecurityHealthService.exe, CxAudMsg64.exe, C:\Program Files\Elantech\ETDCtrl.exe, C:\Program Files (x86)\Lenovo\PowerDVD10\PDVD10Serv.exe, vmnetdhcp.exe, vmnat.exe, dasHost.exe, C:\WINDOWS\System32\igfxEM.exe, C:\WINDOWS\System32\igfxHK.exe, C:\WINDOWS\System32\SettingSyncHost.exe, ETDCtrlHelper.exe, C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe, C:\WINDOWS\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe, C:\WINDOWS\System32\RuntimeBroker.exe, C:\WINDOWS\System32\RuntimeBroker.exe, IAStorDataMgrSvc.exe, C:\Program Files\Windows Defender\MSASCuiL.exe, C:\Users\Tony Montana\AppData\Local\Iris mini\iris-mini-dynamic.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\VMware\VMware Workstation\vmware-tray.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, jhi_service.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, LMS.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, NisSrv.exe, RapportService.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\WINDOWS\System32\cmd.exe, C:\Program Files (x86)\Trusteer\Rapport\bin\RapportHelper.exe, SgrmBroker.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, dllhost.exe, msdtc.exe, SearchIndexer.exe, C:\WINDOWS\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe, C:\WINDOWS\System32\RuntimeBroker.exe, C:\WINDOWS\System32\RuntimeBroker.exe, sedsvc.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\WINDOWS\System32\notepad.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, SearchProtocolHost.exe, SearchFilterHost.exe, C:\WINDOWS\System32\SearchProtocolHost.exe, C:\WINDOWS\System32\smartscreen.exe, C:\Users\Tony Montana\Desktop\MobaXterm_Personal_11.1.exe
+[14:53.58.196]      Some applications may prevent MobaXterm from running properly:
+    - TeamViewer: manipulates Windows handles in a way which may break MobaXterm graphical interface, X11 server or keyboard management (with some very specific settings/versions)
+
+If MobaXterm works properly, you can ignore this warning.
+However, if you encounter issues, this information may be useful in order to fix them.
+[14:53.58.196]      
+
+[14:53.58.587]      
+[14:53.58.587]      BEGIN LoadExtensionsImageList
+[14:53.58.603]      END LoadExtensionsImageList
+[14:53.58.603]      
+[14:53.58.603]      BEGIN ReadCustomIcons
+[14:53.58.603]          No custom icon found.
+[14:53.58.603]      END ReadCustomIcons
+[14:53.58.603]      Generating icons list (size 16)
+[14:53.58.774]      Generating icons list (size 22)
+[14:53.58.931]      Generating icons list (size 64)
+[14:53.58.963]      Creating tray icon
+[14:53.58.963]      Loading skins
+[14:53.58.963]  END Form1.Create
+[14:53.58.963]  
+[14:53.58.963]  
+[14:53.58.963]  CREATING Form4
+[14:53.59.094]  BEGIN Form4.Create
+[14:53.59.102]      NbPingus = 4
+[14:53.59.106]      BEGIN LoadBookmarksFromIni
+[14:53.59.106]          FindOrCreateTreeFolders() (1)
+[14:53.59.106]      END LoadBookmarksFromIni
+[14:53.59.106]      BEGIN LoadMacrosFromIni
+[14:53.59.110]      END LoadMacrosFromIni
+[14:53.59.138]      Form4Create1
+[14:53.59.142]      Form4Create2
+[14:53.59.146]      BEGIN AdaptSidebarArrows
+[14:53.59.146]      END AdaptSidebarArrows
+[14:53.59.146]      Form4Create3
+[14:53.59.146]      GetMinWidth = 924
+[14:53.59.146]      GetMinHeight = 529
+[14:53.59.150]      Form4Create4
+[14:53.59.150]      IsNTFS(C:\) --> NTFS
+[14:53.59.150]      Slash drive is NTFS.
+[14:53.59.150]      Form4Create5
+[14:53.59.150]      Form4Create6
+[14:53.59.150]      Displaysidebarontheleft1Click: FormClick
+[14:53.59.154]      BEGIN AdaptSidebarArrows
+[14:53.59.154]      END AdaptSidebarArrows
+[14:53.59.154]      Form4Create7
+[14:53.59.154]      Form4Create8
+[14:53.59.154]      Form4Create9
+[14:53.59.154]      ShowButtonsbar1Click: FormClick
+[14:53.59.154]      Form4Create10
+[14:53.59.154]      Form4Create12
+[14:53.59.154]      SmallButtons1Click: FormClick
+[14:53.59.154]      GetMinWidth = 924
+[14:53.59.154]      GetMinHeight = 525
+[14:53.59.154]      Form4Create13
+[14:53.59.154]      Form4Create14
+[14:53.59.154]  END Form4.Create
+[14:53.59.154]  
+[14:53.59.154]  
+[14:53.59.154]  CREATING FormParams
+[14:53.59.422]  BEGIN TFormParams.FormCreate
+[14:53.59.434]  END TFormParams.FormCreate
+[14:53.59.434]  
+[14:53.59.434]  
+[14:53.59.434]  CREATING FormSessionEdit
+[14:53.59.767]  BEGIN FormSessionEdit.Create
+[14:53.59.819]      BEGIN TFormSessionEdit.FindIP
+[14:53.59.839]      END TFormSessionEdit.FindIP
+[14:53.59.839]      BEGIN SetupEnumAvailableComPorts
+[14:53.59.839]          SetupEnumAvailableComPorts: SetupDiClassGuidsFromName
+[14:53.59.847]          SetupEnumAvailableComPorts: SetupDiGetClassDevs
+[14:53.59.847]          SetupEnumAvailableComPorts: SetupDiEnumDeviceInfo
+[14:53.59.847]          SetupEnumAvailableComPorts: SetupDiDestroyDeviceInfoList
+[14:53.59.851]      END SetupEnumAvailableComPorts
+[14:53.59.851]  END FormSessionEdit.Create
+[14:53.59.851]  
+[14:53.59.851]  
+[14:53.59.851]  CREATING FormTransparente
+[14:53.59.855]  
+[14:53.59.855]  
+[14:53.59.855]  CREATING FormTermConfirmClose
+[14:53.59.859]  
+[14:53.59.859]  
+[14:53.59.859]  CREATING FormManagePasswords
+[14:53.59.871]  BEGIN TFormManagePasswords.FormCreate
+[14:53.59.871]  END TFormManagePasswords.FormCreate
+[14:53.59.871]  
+[14:53.59.871]  
+[14:53.59.871]  DONE CREATING FORMS
+[14:53.59.871]  
+[14:53.59.871]  
+[14:53.59.871]  
+[14:53.59.871]  
+[14:53.59.871]  BEGIN Form1.Show
+[14:53.59.871]  END Form1.Show
+[14:53.59.927]  
+[14:53.59.927]  Launching Form1.Timer1Timer
+[14:53.59.931]  
+[14:53.59.931]  
+[14:53.59.931]  
+[14:53.59.931]  
+[14:53.59.931]  ================================================================================
+[14:53.59.931]  ~    INI file content (C:\Users\TONYMO~1\Desktop\MobaXterm.ini)    ~
+[14:53.59.931]  ================================================================================
+[14:53.59.931]  
+[14:53.59.931]  
+[Misc]
+LastSession=ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user)| #109#0%ec2-3-8-118-219.eu-west-2.compute.amazonaws.com%22%ec2-user%%-1%-1%%%22%%0%0%0%_ProfileDir_\Desktop\aws key\AWS-pract1.pem%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+RightClickAction=1
+RightClickAssigned=1
+
+[Recently started]
+16=3.9.44.208 (ec2-user) (1)
+15=3.9.44.208 (ec2-user) (2)
+14=Terminal
+13=Terminal (1)
+12=i-0b6c050ddc82d2f8b (ec2-user)
+11=ec2-35-176-247-92.eu-west-2.compute.amazonaws.com (ec2-user)
+10=ec2-user@ec2-35-178-167-237.eu-west-2.compute.amazonaws.com (ec2-user)
+9=i-012745e9b3136a1bd (ec2-user)
+8=ec2-35-178-167-237.eu-west-2.compute.amazonaws.com (ec2-user)
+7=35.178.167.237 (ec2-user)
+6=ec2-18-130-33-88.eu-west-2.compute.amazonaws.com (ec2-user)
+5=ec2-35-177-155-27.eu-west-2.compute.amazonaws.com (ec2-user)
+4=ec2-52-56-38-122.eu-west-2.compute.amazonaws.com (ec2-user)
+3=ec2-35-178-239-43.eu-west-2.compute.amazonaws.com (ec2-user)
+2=ec2-35-176-161-224.eu-west-2.compute.amazonaws.com (ec2-user)
+1=ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user)
+
+[WindowPos_ALIHOME-PC_1_1366]
+CompactMode=0
+MonitorCount=1
+Left=0
+Top=0
+Width=1382
+Height=744
+Maximized=1
+SidebarVisible=1
+SidebarWidth=240
+
+[Display]
+SidebarRight=0
+C10Checked=1
+C11Checked=1
+C12Checked=1
+C13Checked=0
+C14Checked=0
+VisibleTabNum=1
+VisibleTabClose=1
+MenuAndButtons=2
+BtnType2=2
+
+[SSH]
+SFTPShowDotFiles=1
+SFTPAsciiMode=0
+
+[Bookmarks]
+SubRep=
+ImgNum=42
+ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user)= #109#0%ec2-3-8-118-219.eu-west-2.compute.amazonaws.com%22%ec2-user%%-1%-1%%%22%%0%0%0%_ProfileDir_\Desktop\aws key\AWS-pract1.pem%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+Terminal=#97#10%0%#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+Terminal (1)=#97#10%0%#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+
+[LastInstanceSessions]
+0= 
+1=ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user)
+2= 
+
+[14:53.59.931]  
+[14:53.59.931]  
+[14:53.59.931]  ================================================================================
+[14:53.59.931]  
+[14:53.59.931]  
+[14:53.59.931]  
+[14:53.59.931]  
+[14:53.59.931]  BEGIN CreerFstab
+[14:53.59.935]      CreerFstab: RootDirectory = C:/Users/TONYMO~1/AppData/Local/Temp/Mxt111
+[14:53.59.939]      CreerFstab: HomeDirectory = C:/Users/TONYMO~1/AppData/Local/Temp/Mxt111/tmp/HOME_M~1
+[14:53.59.955]  END CreerFstab
+[14:53.59.955]  BEGIN extraireFichiers1
+[14:53.59.955]      BEGIN CreerProfile
+[14:54.00.179]      END CreerProfile
+[14:54.00.179]      BEGIN CreerSshConfig
+[14:54.00.199]      END CreerSshConfig
+[14:54.00.199]      BEGIN CreerBaseProfile
+[14:54.00.199]          NEW PLUGIN: mobase
+[14:54.00.199]          BEGIN ProcessPlugin(mobase)
+[14:54.00.199]              BEGIN GetMobaseStream
+
+[14:54.00.751]              END GetMobaseStream
+[14:54.00.751]          END ProcessPlugin(mobase)
+[14:54.00.751]          NEW PLUGIN: C:\Users\TONYMO~1\Desktop\CygUtils.plugin
+[14:54.00.751]          BEGIN ProcessPlugin(C:\Users\TONYMO~1\Desktop\CygUtils.plugin)
+[14:54.00.803]              
+[14:54.00.803]              --> CygUtils version: 1.68
+[14:54.00.803]              
+[14:54.00.807]          END ProcessPlugin(C:\Users\TONYMO~1\Desktop\CygUtils.plugin)
+[14:54.01.079]      END CreerBaseProfile
+[14:54.01.079]      BEGIN MkGroupFile
+[14:54.01.079]          BEGIN GetLocalGroups
+[14:54.01.099]          END GetLocalGroups
+[14:54.01.115]          SaveStringListToUnixFile(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\group)
+[14:54.01.139]          MkGroupFile OK
+[14:54.01.143]      END MkGroupFile
+[14:54.01.143]      BEGIN MkPasswdFile
+[14:54.01.143]          Current Domain: AliHome-PC
+[14:54.01.143]          BEGIN Bui_GetWindowsUsersAccount
+[14:54.01.143]          END Bui_GetWindowsUsersAccount
+[14:54.01.159]          MkPasswdFile OK
+[14:54.01.159]      END MkPasswdFile
+[14:54.01.159]      BEGIN CreerNsswitch
+[14:54.01.175]      END CreerNsswitch
+[14:54.01.175]      Request for file extraction: /bin/scrdaemons
+[14:54.01.211]      File scrdaemons extracted from CygUtils.plugin.
+[14:54.01.211]      CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\init.d\tftp);
+[14:54.01.231]      CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\init.d\ftp);
+[14:54.01.231]      CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\init.d\http);
+[14:54.01.247]      CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\init.d\ssh);
+[14:54.01.263]      CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\init.d\telnet);
+[14:54.01.278]      CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\init.d\nfs);
+[14:54.01.278]      CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\init.d\vnc);
+[14:54.01.294]      Request for file extraction: /bin/cygtermd.exe
+[14:54.01.356]      File cygtermd.exe extracted from CygUtils.plugin.
+[14:54.01.356]      Request for file extraction: /bin/cygz.dll
+[14:54.01.419]      Request for file extraction: /bin/cyggcc_s-1.dll
+[14:54.01.481]      File cyggcc_s-1.dll extracted from CygUtils.plugin.
+[14:54.01.481]      File cygz.dll extracted from CygUtils.plugin.
+[14:54.01.481]      Request for file extraction: /bin/cyggcc_s-1.dll
+[14:54.01.481]      File cyggcc_s-1.dll extracted from CygUtils.plugin.
+[14:54.01.481]      Request for file extraction: /bin/cygwin-console-helper.exe
+[14:54.01.653]      File cygwin-console-helper.exe extracted from CygUtils.plugin.
+[14:54.01.653]      Request for file extraction: /bin/ssh.exe
+[14:54.01.700]      File ssh.exe extracted from CygUtils.plugin.
+[14:54.01.700]      Request for file extraction: /etc/bash.bash_logout
+[14:54.01.700]      Request for file extraction: /etc/profile.d
+[14:54.01.700]      Request for file extraction: /etc/profile.d/*
+[14:54.01.700]      CreerRaccourciVersMobaXterm(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\MobaListPorts, -listports);
+[14:54.01.716]      CreerRaccourciVersMobaXterm(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\MobaPictureViewer, -picview);
+[14:54.01.731]      CreerRaccourciVersMobaXterm(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\MobaTextEditor, -edit);
+[14:54.01.747]      CreerRaccourciVersMobaXterm(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\MobaCompareFiles, -compfiles);
+[14:54.01.763]      CreerRaccourciVersMobaXterm(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\MobaCompareFolders, -compfolders);
+[14:54.01.763]      Request for file extraction: /usr/share/terminfo/78/xterm
+[14:54.01.794]      File xterm extracted from CygUtils.plugin.
+[14:54.01.794]      Request for file extraction: /usr/share/terminfo/63/cygwin
+[14:54.01.809]      File cygwin extracted from CygUtils.plugin.
+[14:54.01.825]      Request for file extraction: /etc/bash_completion
+[14:54.01.825]      File bash_completion extracted from CygUtils.plugin.
+[14:54.01.841]      Request for file extraction: /usr/share/zoneinfo/posixrules
+[14:54.01.856]      File posixrules extracted successfully.
+[14:54.01.856]      Request for file extraction: /etc/inputrc
+[14:54.01.872]      File inputrc extracted from CygUtils.plugin.
+[14:54.01.872]  END extraireFichiers1
+[14:54.01.872]  CreateSymbolicLink(/proc/registry, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\registry);
+[14:54.01.887]  CreateSymbolicLink(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\bash.exe, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\sh);
+[14:54.01.903]  CreateSymbolicLink(C:\WINDOWS\system32\drivers\etc\hosts, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\hosts);
+[14:54.01.919]  CreateSymbolicLink(C:\WINDOWS\system32\drivers\etc\networks, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\networks);
+[14:54.01.934]  CreateSymbolicLink(C:\WINDOWS\system32\drivers\etc\protocol, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\protocol);
+[14:54.01.957]  CreateSymbolicLink(C:\WINDOWS\system32\drivers\etc\services, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\etc\services);
+[14:54.01.977]  CreateSymbolicLink(C:\Users\TONYMO~1\Desktop\, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\home_mohdzahid_123\Desktop);
+[14:54.01.993]  CreateSymbolicLink(C:\Users\TONYMO~1\DOCUME~1\, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\home_mohdzahid_123\MyDocuments);
+[14:54.02.013]  CreateSymbolicLink(C:\Users\TONYMO~1\Desktop\, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\home_mohdzahid_123\LauncherFolder);
+[14:54.02.038]  BEGIN LoadSharedSessions
+[14:54.02.038]      BEGIN TFormManagePasswords.sRadioButton4Click
+[14:54.02.038]      END TFormManagePasswords.sRadioButton4Click
+[14:54.02.038]  END LoadSharedSessions
+[14:54.02.038]  BEGIN LoadSharedSessions
+[14:54.02.038]  END LoadSharedSessions
+[14:54.02.042]  BEGIN RecreateBookmarksMenus
+[14:54.02.042]      RecreateBookmarksMenus: FreeBookmarksMenuItems(Form1.Xserver3)
+[14:54.02.042]      RecreateBookmarksMenus: FreeBookmarksMenuItems(Bookmarks1)
+[14:54.02.042]      sTreeView1.assign(Treesessions)
+[14:54.02.042]      Detecting SheetSessions width
+[14:54.02.042]      Create session menu items
+[14:54.02.042]      Create aliases
+[14:54.02.074]      TreeSessions.Expand
+[14:54.02.074]  END RecreateBookmarksMenus
+[14:54.02.074]  BEGIN WaitForAllThreads
+[14:54.02.074]  END WaitForAllThreads
+[14:54.02.086]  
+[14:54.02.086]  BEGIN Form4.FormActivate
+[14:54.02.086]      Form4.FormActivate0: First time window activation
+[14:54.02.098]      Form4.FormActivate1
+[14:54.02.110]      Form4.FormActivate2
+[14:54.02.122]      Form4.FormActivate3
+[14:54.02.135]      Form4.FormActivate4
+[14:54.02.135]      Form4.FormActivate5
+[14:54.02.139]      Registering global show/hide hotkey
+[14:54.02.139]      Registering global show/hide popup terminal
+[14:54.02.139]      BEGIN LoadParamsFromIni: C:\Users\TONYMO~1\Desktop\MobaXterm.ini
+[14:54.02.139]          LoadParamsFromIni: ComboFontName.Font.Name:=MobaFont
+[14:54.02.139]          LoadParamsFromIni: ComboFontName.ItemIndex:=18
+[14:54.02.139]          LoadParamsFromIni: ComboFontName.Font.Charset:=0
+[14:54.02.139]          LoadParamsFromIni1
+[14:54.02.139]          LoadParamsFromIni2
+[14:54.02.143]          LoadParamsFromIni9
+[14:54.02.143]          LoadParamsFromIni10
+[14:54.02.143]          LoadParamsFromIni11
+[14:54.02.143]          LoadParamsFromIni12
+[14:54.02.143]          LoadParamsFromIni13
+[14:54.02.143]          LoadParamsFromIni14
+[14:54.02.176]          LoadParamsFromIni15
+[14:54.02.180]          LoadParamsFromIni16
+[14:54.02.180]      END LoadParamsFromIni
+[14:54.02.180]      Form4.FormActivate: OldMaximized:=Form4.WindowState
+[14:54.02.180]      Form4.FormActivate: TermImage.Canvas.Font.Assign(MobaFont)
+[14:54.02.180]      Form4.FormActivate: TermImage.Canvas.Font.Size:=10
+[14:54.02.180]      Form4.FormActivate: TermImage.Canvas.Font.Name:=MobaFont
+[14:54.02.180]      Form4.FormActivate: Starting "GetMinHeight"
+[14:54.02.180]      GetMinHeight = 525
+[14:54.02.180]      Form4.FormActivate: Form4.Constraints.MinHeight:=525
+[14:54.02.180]      GetMinWidth = 924
+[14:54.02.180]      Form4.FormActivate: Form4.Constraints.MinWidth:=924
+[14:54.02.180]      Form4.FormActivate: Form4.Left:=229
+[14:54.02.180]      BEGIN GetNextAvailableX
+[14:54.02.180]      END GetNextAvailableX = 0
+[14:54.02.180]      
+[14:54.02.180]      CurrentX = 0
+[14:54.02.180]      ChDir(Form1.BaseDir): C:\Users\Tony Montana\Desktop\
+[14:54.02.180]      FirstParam:
+[14:54.02.180]      Launching NewTab
+[14:54.02.180]      
+[14:54.02.180]      BEGIN NEWTAB(home, 135, 0)
+[14:54.02.220]          NEWTAB: Application.ProcessMessages
+[14:54.02.220]          NEWTAB: Timer1_Disable
+[14:54.02.239]          
+[14:54.02.239]          BEGIN Form4.FormActivate
+[14:54.02.239]          END Form4.FormActivate
+[14:54.02.239]          
+[14:54.02.271]          BEGIN TFormXterm.FormResize
+[14:54.02.271]              TFormXterm.FormResize: CenterBtnReattachTab
+[14:54.02.271]              TFormXterm.FormResize: SplitModeResize
+[14:54.02.271]              TFormXterm.FormResize: TabMax<=0. Exiting...
+[14:54.02.271]          END TFormXterm.FormResize
+[14:54.02.271]          BEGIN WMSize
+[14:54.02.271]              BEGIN TFormXterm.FormResize
+[14:54.02.271]                  TFormXterm.FormResize: CenterBtnReattachTab
+[14:54.02.271]                  TFormXterm.FormResize: SplitModeResize
+[14:54.02.271]                  TFormXterm.FormResize: TabMax<=0. Exiting...
+[14:54.02.271]              END TFormXterm.FormResize
+[14:54.02.271]          END WMSize
+[14:54.02.275]          NEWTAB: Verifying if max number of tabs has been reached...
+[14:54.02.275]          NEWTAB: Creating SFTPRecord...
+[14:54.02.275]          NEWTAB: Creating menu items and popup entries for new tab...
+[14:54.02.275]          NEWTAB: Trying to find OldIndice...
+[14:54.02.275]          NEWTAB: Cts1.BeginUpdate;
+[14:54.02.275]          NEWTAB: Creating new tab...
+[14:54.02.275]          NEWTAB:        Tab index: 0
+[14:54.02.275]          NEWTAB:        NumTerm  : 1
+[14:54.02.275]          NEWTAB:        Title    : Home
+[14:54.02.275]          NEWTAB:        Command  : home
+[14:54.02.275]          Cts1ActiveTabChanged: New index = 0
+[14:54.02.275]          NEWTAB: Cts1.EndUpdates
+
+
+[14:54.08.013]          NEWTAB: Changing tab index A = 0
+[14:54.08.013]          BEGIN WaitForAllThreads
+[14:54.08.013]          END WaitForAllThreads
+[14:54.08.013]          
+[14:54.08.013]          LaunchTabContent(home, Home);
+[14:54.08.013]          
+[14:54.08.017]          SetEnvironmentVariable(LOCALE, en_GB.UTF-8)
+[14:54.08.021]          SetEnvironmentVariable(PATH, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin;C:\WINDOWS\;C:\WINDOWS\system32\)
+[14:54.08.021]          Enabling MOBANOACL
+[14:54.08.021]          
+[14:54.08.021]          ShellExecute: motty.exe
+[14:54.08.021]          
+[14:54.08.021]          CreerSessionMoTTY(1, home, Home)
+[14:54.08.029]          Setting LOCALE=en_GB.UTF-8
+[14:54.08.053]          CreerSessionMoTTY(-1, /bin/_TCPCapture.sh, TCPCapture)
+[14:54.08.053]          Setting LOCALE=en_GB.UTF-8
+[14:54.08.110]          
+[14:54.08.110]          FindWindow()
+[14:54.08.110]          Moxt2.SetParent
+[14:54.08.162]          NEWTAB: Application.OnMessage:=AppMessage
+[14:54.08.174]          NEWTAB: Changing tab index C = 0
+[14:54.08.174]          NEWTAB: Launching DisplayCurrentTab...
+[14:54.08.174]          BEGIN DisplayCurrentTab
+[14:54.08.174]              DisplayCurrentTab: FormClick
+[14:54.08.174]              (SSH-Browser) DisplayCurrentTab(0): ActiverPanel14
+[14:54.08.174]              (SSH-Browser) BEGIN ActiverPanel14
+[14:54.08.174]              (SSH-Browser) BEGIN DesactiverPanel14
+[14:54.08.174]              (SSH-Browser) END DesactiverPanel14
+[14:54.08.174]              (SSH-Browser) END ActiverPanel14;
+[14:54.08.370]              DisplayCurrentTab: Cts1.BeginUpdate;
+[14:54.08.370]              DisplayCurrentTab: Cts1.EndUpdates
+[14:54.08.370]              DisplayCurrentTab: Show selected tab
+[14:54.08.370]              BEGIN ResizeTerminal
+[14:54.08.370]              END ResizeTerminal
+[14:54.08.370]              DisplayCurrentTab: Hide other tabs
+[14:54.08.370]              DisplayCurrentTab: Adapting buttons enable/disable states
+[14:54.08.370]              DisplayCurrentTab: DeterminerBoutonDetachOuReattach
+[14:54.08.370]              DisplayCurrentTab: DistribuerLeFocus
+[14:54.08.370]              BEGIN WMNewTab: 0
+[14:54.08.370]                  WMNewTab: FormClick
+[14:54.08.370]                  WMNewTab: LooseFocus
+[14:54.08.370]              END WMNewTab: 0
+[14:54.08.370]              BEGIN WMNewTab: 0
+[14:54.08.370]                  WMNewTab: FormClick
+[14:54.08.370]                  WMNewTab: LooseFocus
+[14:54.08.370]              END WMNewTab: 0
+[14:54.08.370]              BEGIN WMNewTab: 0
+[14:54.08.370]                  WMNewTab: FormClick
+[14:54.08.370]                  WMNewTab: LooseFocus
+[14:54.08.370]              END WMNewTab: 0
+[14:54.08.370]              BEGIN WMNewTab: 0
+[14:54.08.370]                  WMNewTab: FormClick
+[14:54.08.370]                  WMNewTab: LooseFocus
+[14:54.08.370]              END WMNewTab: 0
+[14:54.08.386]          END DisplayCurrentTab
+[14:54.08.386]          NEWTAB: NewTab_ReEnable_Timer1
+[14:54.08.386]          NEWTAB: MajVerticalTabs
+[14:54.08.386]          NEWTAB: Cts1.Resize;
+[14:54.08.386]      END NEWTAB(home, 135, 0)
+[14:54.08.386]      
+[14:54.08.386]      
+[14:54.08.386]      Launching bookmarks();
+[14:54.08.386]      Launching sBitBtn7Click(sBitBtn7);
+[14:54.08.386]      
+[14:54.08.386]      BEGIN LaunchX11();
+[14:54.08.386]          BEGIN MobaThreadXressources.Execute(nil);
+[14:54.08.386]          END MobaThreadXressources.Execute(nil);
+
+
+[14:54.15.566]          BEGIN ExecuteSessionTree
+[14:54.15.566]              ExecuteSessionTree: FormClick
+[14:54.15.570]              BEGIN ExecuteSelectedSession
+[14:54.15.570]                  ExecuteSelectedSession: FormClick
+[14:54.15.570]                  ExecuteSelectedSession0
+[14:54.15.570]                  ExecuteSelectedSession1
+[14:54.15.570]                  ExecuteSelectedSession2
+[14:54.15.570]                  ExecuteSelectedSession3
+[14:54.15.570]                  BEGIN ChargerLaSession
+[14:54.15.586]                      ChargerLaSession1
+[14:54.15.590]                      ChargerLaSession2
+[14:54.15.590]                      ChargerLaSession3
+[14:54.15.590]                      ChargerLaSession4
+[14:54.15.590]                      ChargerLaSession5
+[14:54.15.590]                      ChargerLaSession6
+[14:54.15.590]                      ChargerLaSession7
+[14:54.15.590]                      ChargerLaSession8
+[14:54.15.590]                      ChargerLaSession8_ssh_1
+[14:54.15.590]                      ChargerLaSession8_ssh_2
+[14:54.15.590]                      ChargerLaSession8_ssh_3
+[14:54.15.590]                      ChargerLaSession8_ssh_4
+[14:54.15.590]                      ChargerLaSession9
+[14:54.15.622]                      ChargerLaSession10
+[14:54.15.622]                  END ChargerLaSession
+[14:54.15.622]                  ExecuteSelectedSession4
+[14:54.15.622]                  LaunchSession0
+[14:54.15.622]                  LaunchSession1
+[14:54.15.622]                  LaunchSession4
+[14:54.15.642]                  LaunchSession5
+[14:54.15.642]                  
+[14:54.15.642]                  BEGIN NEWTAB(ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem' , 109, 0)
+[14:54.15.642]                      NEWTAB: Application.ProcessMessages
+[14:54.15.642]                      NEWTAB: Timer1_Disable
+[14:54.15.642]                      NEWTAB: Verifying if max number of tabs has been reached...
+[14:54.15.646]                      NEWTAB: Creating SFTPRecord...
+[14:54.15.646]                      NEWTAB: Creating menu items and popup entries for new tab...
+[14:54.15.646]                      NEWTAB: Trying to find OldIndice...
+[14:54.15.646]                      NEWTAB: Cts1.BeginUpdate;
+[14:54.15.646]                      NEWTAB: Creating new tab...
+[14:54.15.646]                      NEWTAB:        Tab index: 1
+[14:54.15.646]                      NEWTAB:        NumTerm  : 2
+[14:54.15.646]                      NEWTAB:        Title    : ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user)
+[14:54.15.646]                      NEWTAB:        Command  : ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem'
+[14:54.15.646]                      Cts1ActiveTabChanged: New index = 1
+[14:54.15.646]                      NEWTAB: Cts1.EndUpdates
+[14:54.15.650]                      NEWTAB: Changing tab index A = 1
+[14:54.15.650]                      BEGIN WaitForAllThreads
+
+
+[14:54.17.480]                          BEGIN WMNewTab: 0
+[14:54.17.480]                              WMNewTab: FormClick
+[14:54.17.480]                              WMNewTab: LooseFocus
+[14:54.17.480]                          END WMNewTab: 0
+
+
+[14:54.20.370]                          Cts1MouseDown: FormClick
+[14:54.20.510]                          BEGIN TFormXterm.Cts1ButtonCloseTabClick
+[14:54.20.510]                              
+[14:54.20.510]                              BEGIN CloseTab(1)
+[14:54.20.510]                                  CloseTab:  Tab is external app
+[14:54.20.510]                                  CloseTab:  Delete MobaScript file
+[14:54.20.510]                                  CloseTab:  Close TFormDetachedTab
+[14:54.20.510]                                  CloseTab: Cts1.BeginUpdate;
+[14:54.20.510]                                  CloseTab: Cts1.Tabs.Delete(1);
+[14:54.20.510]                                  Cts1ActiveTabChanged: New index = 0
+[14:54.20.510]                                  CloseTab: Cts1.Tabs.Delete(1);
+[14:54.20.510]                                  (SSH-Browser) TabSFTP[1].Free;
+[14:54.20.510]                                  Freeing object TMobaThread
+[14:54.20.510]                                  Freeing object TElSftpClient
+[14:54.20.510]                                  Freeing object TElSSHClient
+[14:54.20.510]                                  Freeing object TElSocket
+[14:54.20.510]                                  Freeing object TSshBrowserList
+[14:54.20.510]                                  Freeing object TElSSHTunnelList
+[14:54.20.510]                                  Freeing object TElSubsystemSSHTunnel
+[14:54.20.510]                                  Freeing object TList
+[14:54.20.510]                                  Freeing object TTimer
+[14:54.20.510]                                  BEGIN DisplayCurrentTab
+[14:54.20.510]                                      DisplayCurrentTab: FormClick
+[14:54.20.510]                                      (SSH-Browser) DisplayCurrentTab(0): ActiverPanel14
+[14:54.20.510]                                      (SSH-Browser) BEGIN ActiverPanel14
+[14:54.20.510]                                      (SSH-Browser) BEGIN DesactiverPanel14
+[14:54.20.510]                                      (SSH-Browser) END DesactiverPanel14
+[14:54.20.510]                                      (SSH-Browser) END ActiverPanel14;
+[14:54.20.729]                                      DisplayCurrentTab: Cts1.BeginUpdate;
+[14:54.20.729]                                      DisplayCurrentTab: Cts1.EndUpdates
+[14:54.20.729]                                      DisplayCurrentTab: Show selected tab
+[14:54.20.729]                                      BEGIN ResizeTerminal
+[14:54.20.729]  END ResizeTerminal
+[14:54.20.729]  DisplayCurrentTab: Hide other tabs
+[14:54.20.729]  DisplayCurrentTab: Adapting buttons enable/disable states
+[14:54.20.729]  DisplayCurrentTab: DeterminerBoutonDetachOuReattach
+[14:54.20.729]  DisplayCurrentTab: DistribuerLeFocus
+[14:54.20.729]  BEGIN WMNewTab: 0
+[14:54.20.729]      WMNewTab: FormClick
+[14:54.20.729]      WMNewTab: LooseFocus
+[14:54.20.729]  END WMNewTab: 0
+[14:54.20.729]  BEGIN WMNewTab: 0
+[14:54.20.729]      WMNewTab: FormClick
+[14:54.20.729]      WMNewTab: LooseFocus
+[14:54.20.729]  END WMNewTab: 0
+[14:54.20.729]  BEGIN WMNewTab: 0
+[14:54.20.729]      WMNewTab: FormClick
+[14:54.20.729]      WMNewTab: LooseFocus
+[14:54.20.729]  END WMNewTab: 0
+[14:54.20.729]  BEGIN WMNewTab: 0
+[14:54.20.729]      WMNewTab: FormClick
+[14:54.20.729]      WMNewTab: LooseFocus
+[14:54.20.729]  END WMNewTab: 0
+[14:54.20.729]  END DisplayCurrentTab
+[14:54.20.729]  END CloseTab(1)
+[14:54.20.729]  
+[14:54.20.729]  END TFormXterm.Cts1ButtonCloseTabClick
+
+
+[14:54.24.913]  BEGIN RecreateBookmarksMenus
+[14:54.24.913]      RecreateBookmarksMenus: FreeBookmarksMenuItems(Form1.Xserver3)
+[14:54.24.913]      RecreateBookmarksMenus: FreeBookmarksMenuItems(Bookmarks1)
+[14:54.24.913]      sTreeView1.assign(Treesessions)
+[14:54.24.913]      Detecting SheetSessions width
+[14:54.24.917]      Create session menu items
+[14:54.24.917]      Create aliases
+[14:54.24.948]      TreeSessions.Expand
+[14:54.24.948]  END RecreateBookmarksMenus
+[14:54.24.948]  BEGIN SaveBookmarksToIni
+[14:54.24.948]      BEGIN SaveBookmarksFromFolder(User sessions,0)
+[14:54.24.948]      END SaveBookmarksFromFolder
+[14:54.24.948]      TFormXterm.SaveBookmarksToIni: Ini36.UpdateFile(C:\Users\TONYMO~1\Desktop\MobaXterm.ini)
+[14:54.24.964]  END SaveBookmarksToIni
+
+[14:54.26.155]  BEGIN BtnNewSessionClick
+[14:54.26.155]      BtnNewSessionClick: FormClick
+[14:54.26.194]      BEGIN ChargerLaSession
+[14:54.26.449]          ChargerLaSession1
+[14:54.26.496]          ChargerLaSession2
+
+
+[14:54.27.845]          BEGIN FormSessions.Btn0Click: 0
+[14:54.27.845]              BEGIN LockControl(FormSessionEdit, Btn0Click)
+[14:54.27.845]              END LockControl(FormSessionEdit, Btn0Click)
+[14:54.27.845]              BEGIN UnlockControl(FormSessionEdit, Btn0Click)
+[14:54.27.845]              END UnlockControl(FormSessionEdit, Btn0Click)
+[14:54.27.845]          END FormSessions.Btn0Click
+
+
+
+[14:54.44.966]          BEGIN SessionCLickOK
+[14:54.44.966]              BEGIN SauverSession
+[14:54.44.970]                  During SauverSession
+[14:54.44.970]                  BEGIN RecreateBookmarksMenus
+[14:54.44.970]                      RecreateBookmarksMenus: FreeBookmarksMenuItems(Form1.Xserver3)
+[14:54.44.970]                      RecreateBookmarksMenus: FreeBookmarksMenuItems(Bookmarks1)
+[14:54.44.970]                      sTreeView1.assign(Treesessions)
+[14:54.44.970]                      Detecting SheetSessions width
+[14:54.44.974]                      Create session menu items
+[14:54.44.974]                      Create aliases
+[14:54.45.006]                      TreeSessions.Expand
+[14:54.45.006]                  END RecreateBookmarksMenus
+[14:54.45.006]                  BEGIN SaveBookmarksToIni
+[14:54.45.006]                      BEGIN SaveBookmarksFromFolder(User sessions,0)
+[14:54.45.006]                      END SaveBookmarksFromFolder
+[14:54.45.006]                      TFormXterm.SaveBookmarksToIni: Ini36.UpdateFile(C:\Users\TONYMO~1\Desktop\MobaXterm.ini)
+[14:54.45.014]                  END SaveBookmarksToIni
+[14:54.45.014]              END SauverSession
+[14:54.45.018]              LaunchSession0
+[14:54.45.022]              LaunchSession1
+[14:54.45.022]              LaunchSession4
+[14:54.45.054]              LaunchSession5
+[14:54.45.054]              
+[14:54.45.054]              BEGIN NEWTAB(ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem' , 109, 0)
+[14:54.45.054]                  NEWTAB: Application.ProcessMessages
+[14:54.45.066]                  NEWTAB: Timer1_Disable
+[14:54.45.066]                  NEWTAB: Verifying if max number of tabs has been reached...
+[14:54.45.070]                  NEWTAB: Creating SFTPRecord...
+[14:54.45.074]                  NEWTAB: Creating menu items and popup entries for new tab...
+[14:54.45.074]                  NEWTAB: Trying to find OldIndice...
+[14:54.45.074]                  NEWTAB: Cts1.BeginUpdate;
+[14:54.45.074]                  NEWTAB: Creating new tab...
+[14:54.45.074]                  NEWTAB:        Tab index: 1
+[14:54.45.074]                  NEWTAB:        NumTerm  : 3
+[14:54.45.074]                  NEWTAB:        Title    : ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user)
+[14:54.45.074]                  NEWTAB:        Command  : ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem'
+[14:54.45.074]                  Cts1ActiveTabChanged: New index = 1
+[14:54.45.074]                  NEWTAB: Cts1.EndUpdates
+[14:54.45.078]                  NEWTAB: Changing tab index A = 1
+[14:54.45.078]                  BEGIN WaitForAllThreads
+[14:54.45.078]                  END WaitForAllThreads
+[14:54.45.078]                  
+[14:54.45.078]                  LaunchTabContent(ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem' , ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user));
+[14:54.45.078]                  
+[14:54.45.082]                  SetEnvironmentVariable(LOCALE, en_GB.UTF-8)
+[14:54.45.086]                  SetEnvironmentVariable(PATH, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin;C:\WINDOWS\;C:\WINDOWS\system32\)
+[14:54.45.086]                  Enabling MOBANOACL
+[14:54.45.086]                  
+[14:54.45.086]                  ShellExecute: motty.exe
+[14:54.45.086]                  
+[14:54.45.090]                  CreerSessionMoTTY(3, ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem' , ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user))
+[14:54.45.090]                  Request for file extraction: /bin/motty.exe
+[14:54.45.306]                  File motty.exe extracted successfully.
+[14:54.45.318]                  SetEnvironmentVariable(LOCALE, en_GB.UTF-8)
+[14:54.45.374]                  SetEnvironmentVariable(PATH, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin;C:\WINDOWS\;C:\WINDOWS\system32\;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Lenovo\Bluetooth Software\;C:\Program Files\Lenovo\Bluetooth Software\syswow64;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\PuTTY\;C:\Users\Tony Montana\AppData\Local\Microsoft\WindowsApps)
+[14:54.45.374]                  Enabling MOBANOACL
+[14:54.45.390]                  Request for file extraction: /bin/cygtermd.exe
+[14:54.45.390]                  File cygtermd.exe extracted from CygUtils.plugin.
+[14:54.45.394]                  File not found:  C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\cygwin1.dll
+[14:54.45.394]                  File not found:  C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\bash.exe
+[14:54.45.394]                  File not found:  C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\busybox.exe
+[14:54.45.402]                  BEGIN ShellExecuteS(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\motty.exe, -load "C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\sessions\TERM1321583")
+
+[14:54.45.996]                      ShellExecuteS: ShellExecuteEx succeeded.
+[14:54.46.090]                      SetTitle(1, ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user));
+[14:54.46.094]                      ShellExecuteS: WaitForInputIdle succeeded.
+[14:54.46.094]                  END ShellExecuteS(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin\motty.exe, -load "C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\sessions\TERM1321583")
+[14:54.46.094]                  
+[14:54.46.094]                  FindWindow(CMoTTY)
+[14:54.46.094]                  Potential window 263660 successfully passed 2nd verification.
+[14:54.46.094]                  --> succeeded
+[14:54.46.094]                  Moxt2.SetParent
+[14:54.46.106]                  NEWTAB: Application.OnMessage:=AppMessage
+[14:54.46.113]                  
+[14:54.46.113]                  BEGIN Form4.FormActivate
+[14:54.46.113]                  END Form4.FormActivate
+[14:54.46.113]                  
+[14:54.46.113]                  NEWTAB: Changing tab index C = 1
+[14:54.46.113]                  NEWTAB: Launching DisplayCurrentTab...
+[14:54.46.113]                  BEGIN DisplayCurrentTab
+[14:54.46.113]                      DisplayCurrentTab: FormClick
+[14:54.46.113]                      (SSH-Browser) DisplayCurrentTab(1): ActiverPanel14
+[14:54.46.113]                      (SSH-Browser) BEGIN ActiverPanel14
+[14:54.46.113]                      (SSH-Browser) BEGIN DesactiverPanel14
+[14:54.46.113]                      (SSH-Browser) END DesactiverPanel14
+[14:54.46.113]                      (SSH-Browser) END ActiverPanel14;
+[14:54.46.301]                      DisplayCurrentTab: Cts1.BeginUpdate;
+[14:54.46.301]                      DisplayCurrentTab: Cts1.EndUpdates
+[14:54.46.301]                      DisplayCurrentTab: Show selected tab
+[14:54.46.301]                      DisplayCurrentTab: Hide other tabs
+[14:54.46.305]                      DisplayCurrentTab: Adapting buttons enable/disable states
+[14:54.46.309]                      DisplayCurrentTab: DeterminerBoutonDetachOuReattach
+[14:54.46.309]                      DisplayCurrentTab: DistribuerLeFocus
+[14:54.46.309]                  END DisplayCurrentTab
+[14:54.46.309]                  NEWTAB: NewTab_ReEnable_Timer1
+[14:54.46.309]                  NEWTAB: MajVerticalTabs
+[14:54.46.309]                  NEWTAB: Cts1.Resize;
+[14:54.46.317]              END NEWTAB(ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem' , 109, 0)
+[14:54.46.317]              
+[14:54.46.317]              LaunchSession6
+[14:54.46.321]          END SessionCLickOK
+[14:54.46.321]          BEGIN TFormSessionEdit.FormClose
+[14:54.46.321]          END TFormSessionEdit.FormClose
+[14:54.46.329]      END BtnNewSessionClick
+[14:54.46.349]  END WaitForAllThreads
+[14:54.46.349]  
+[14:54.46.349]  LaunchTabContent(ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem' , ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user));
+[14:54.46.349]  
+[14:54.46.349]  SetEnvironmentVariable(LOCALE, en_GB.UTF-8)
+[14:54.46.353]  SetEnvironmentVariable(PATH, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin;C:\WINDOWS\;C:\WINDOWS\system32\)
+[14:54.46.353]  Enabling MOBANOACL
+[14:54.46.353]  
+[14:54.46.353]  ShellExecute: motty.exe
+[14:54.46.353]  
+[14:54.46.353]  CreerSessionMoTTY(3, ssh "ec2-3-8-118-219.eu-west-2.compute.amazonaws.com" -l "ec2-user" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z  -i 'C:\Users\Tony Montana\Desktop\aws key\AWS-pract1.pem' , ec2-3-8-118-219.eu-west-2.compute.amazonaws.com (ec2-user))
+[14:54.46.357]  SetEnvironmentVariable(LOCALE, en_GB.UTF-8)
+[14:54.46.381]  SetEnvironmentVariable(PATH, C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\bin;C:\WINDOWS\;C:\WINDOWS\system32\;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Lenovo\Bluetooth Software\;C:\Program Files\Lenovo\Bluetooth Software\syswow64;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\PuTTY\;C:\Users\Tony Montana\AppData\Local\Microsoft\WindowsApps)
+[14:54.46.381]  Enabling MOBANOACL
+[14:54.46.389]  !!!! Exception EFCreateError: Cannot create file "C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\sessions\TERM1321583". The process cannot access the file because it is being used by another process during SaveStringListToUnixFile(C:\Users\TONYMO~1\AppData\Local\Temp\Mxt111\tmp\sessions\TERM1321583)
